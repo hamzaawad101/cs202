@@ -1,0 +1,13 @@
+1.# of Boards considered with contraint(s) for n = 8
+Total number of boards checked: 15720.
+2.# of Boards considered with contraint(s) for n = 10
+Total number of boards checked: 348150
+3.In your own words, what is the benefit of a recursive solution to
+A recursive solution is good for enumerating all potential solutions and simplifies 
+the process of trying different queen placment.Each call is attempting to place a queen and 
+then backtracking.
+4. Also in your own words, what are the theoretical and/or practical
+advantages of constraining the search space to only still valid 
+solutions? By constraining the search space to only still valid 
+solutions we reduce the number of recursive calls and by skipping 
+invaild queen placement early on.

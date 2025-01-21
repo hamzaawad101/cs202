@@ -1,0 +1,20 @@
+For find()
+./a.out < input  1.46s user 0.01s system 89% cpu 1.643 total
+./a.out < input  1.47s user 0.01s system 99% cpu 1.473 total
+./a.out < input  1.47s user 0.01s system 99% cpu 1.473 total
+
+for Binary_search()
+./a.out < input  1.47s user 0.01s system 89% cpu 1.655 total
+./a.out < input  1.47s user 0.01s system 99% cpu 1.476 total
+./a.out < input  1.49s user 0.01s system 99% cpu 1.498 total
+load factor for 2000000
+149156/2000000=.074578
+for map()
+./a.out < input  3.05s user 0.01s system 94% cpu 3.236 total
+./a.out < input  3.04s user 0.02s system 99% cpu 3.062 total
+./a.out < input  3.04s user 0.01s system 99% cpu 3.059 total
+
+for vector of max size value()
+./a.out < input  2.98s user 0.01s system 94% cpu 3.163 total
+./a.out < input  2.97s user 0.02s system 99% cpu 2.992 total
+./a.out < input  2.97s user 0.01s system 99% cpu 2.981 total
